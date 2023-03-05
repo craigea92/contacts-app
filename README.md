@@ -1,6 +1,11 @@
-# contacts-app
+# A Contacts App
 
 ## Project Description
+The objective of this project was to create a simple Contacts app that utilizes React to provide users with a streamlined and user-friendly experience for organizing and managing their contacts. To achieve this, I implemented a createCard function within a map function to display each contact.
+
+I aimed to maximize efficiency by extracting essential components and functionalities into their respective components. As a result, I was able to break down the app into five distinct components, each of which can be repurposed as needed. However, coordinating the interactions between each component posed a considerable challenge. Fortunately, the React developer tools provided valuable assistance in maintaining the project's organization and structure.
+
+While this project is currently completed, I plan to enhance it in the future by incorporating additional methods for adding and deleting contacts.
 
 ## Tech Stack
 <a href="https://www.javascript.com/"> <img src="https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor" alt="javascript"/> </a>
