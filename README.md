@@ -22,3 +22,6 @@ npm start
 ```
 ## Screenshot
 <img width="1199" alt="image" src="https://user-images.githubusercontent.com/82875984/222484739-49d603c4-3bb7-4301-95f0-443eb9f2a660.png">
+
+## What is DRY?
+DRY is a software development principle that stands for “Don't Repeat Yourself.” Living by this principle means that your aim is to reduce repetitive patterns and duplicate code and logic in favor of modular and referenceable code. DRY code means you get to write duplicate code less often. You're saving lots of time writing the same thing over and over. Not only that, but you're saving your cognitive energy for bigger problems you'll end up needing to solve, instead of wasting that time and energy on tedious syntax.
